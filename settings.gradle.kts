@@ -1,2 +1,4 @@
 rootProject.name = "my-first-microservice"
-include("build-logic")
+
+includeBuild("build-logic")
+
