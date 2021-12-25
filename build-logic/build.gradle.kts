@@ -10,7 +10,5 @@ dependencies {
 }
 
 repositories {
-    repositories {
-        gradlePluginPortal()
-    }
+    gradlePluginPortal()
 }
